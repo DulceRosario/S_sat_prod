@@ -1,0 +1,7 @@
+Images/
+Noaa/
+.ipynb_checkpoints/
+.env
+*.log
+__pycache__/
+productos

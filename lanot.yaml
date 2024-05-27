@@ -1,0 +1,28 @@
+name: lanot
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.9
+  - pysftp
+  - ca-certificates
+  - openssl
+  - jupyterlab
+  - pandas
+  - bottleneck
+  - netcdf4
+  - dask
+  - xarray
+  - rioxarray
+  - libgcc
+  - certifi
+  - matplotlib
+  - python-dotenv
+  - pillow
+  - geopandas
+  - cartopy
+  - boto3
+  - pyorbital
+  - s3fs
+  - h5netcdf
+  - pyresample
+prefix: /home/dulceh/miniforge3/envs/lanot
